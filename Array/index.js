@@ -1,3 +1,4 @@
+//Array
 // Example of manipulating arrays
 var fruits = ["apple", "banana", "orange"];
 fruits.push("habhab");
